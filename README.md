@@ -1,9 +1,27 @@
-# 👋 Welcome to my GitHub profile
+[cc-by-nc-sa]: <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
-> I'm currently
-> 	- 👯 working on some collaborations
-> 	- 📝 journaling my experiences from participating in some hackathons recently
+[cc-by-nc-sa-image]: <https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png>
 
-📫 I can be reached on LinkedIn 
+[cc-by-nc-sa-shield]: <https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg>
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+***
+
+# 👋 
+
+Welcome!
+
+> **Highlight** 👯 Collaborations 
+> 	- koad-icu
+> 	- ReinforcementLearning-DQN 
+
+***
+
+*Avatar (ESA HUBBLE Cats Paw Nebula) credit: S. Lipinski/NASA & ESA*
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 © 2023 Nazifa M SHEMONTI
