@@ -1,4 +1,4 @@
-[Wesite]: <https://mu-sh.studio>
+[Website]: <https://mu-sh.studio>
 
 [Blog]: <https://mu-sh.notion.site>
 
