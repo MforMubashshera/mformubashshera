@@ -1,12 +1,18 @@
-> Here: About | Research focus | Highlights | Affiliations
-> Elsewhere: Current projects | Blog | Pages
 
-GitHub Avatar: Cats Paw Nebula, ESA HUBBLE
 
 # 👋 
 
+Here: ´About´ | ´Research focus´ | ´Highlights´ | ´Affiliations´
+
+Elsewhere: ´Website´ | ´Blog´ 
+
+´About´: I have been studying approaches to data privacy in healthcare, IoT, social media and aiming towards a career in privacy policy-making. 
+
+´Research focus´: Usable security 
+
 ***
 
-*Avatar credit: S. Lipinski/NASA & ESA*
+🐆 GitHub Avatar: Cats Paw Nebula, ESA HUBBLE 
+> credit: S. Lipinski/NASA & ESA 
 
-© 2023 Nazifa M SHEMONTI
+© 2023 *Nazifa M SHEMONTI*
