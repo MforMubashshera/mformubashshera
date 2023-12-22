@@ -4,25 +4,27 @@
 
 # 👋 
 
-Here: [About](#about) | [Research focus](#research-focus) | [Highlights](#highlights) | [Affiliations](#affiliations)
+Here: [About](#about) | [Highlights](#highlights) | [Projects](#projects)
 
 Elsewhere: [Website] | [Blog]
 
 ## About 
 
-I have been studying approaches to data privacy in healthcare, IoT, social media and aiming towards a career in privacy policy-making. 
-
-## Research focus
-
-Usable security 
+Engineer-researcher-advocate of privacy-focused big data innovations
 
 ## Highlights 
 
-## Affiliations
+* studying at Uppsala University for a graduate level degree in data science specializing in machine learning and statistics
+* interned at Engineers Without Borders Sweden alongside nonprofit program experts to develop child-safe policy and procedures
+* mentored by internationally renowned computer scientists at Independent University, Bangladesh to build a patient monitoring system using machine learning
+* obtained bachelor's degree from BRAC University with a major in electronics and communication engineering and a minor in computer science
+
+## Projects
+
+> Koad in ICU
 
 ***
 
-🐆 GitHub Avatar: Cats Paw Nebula, ESA HUBBLE 
-> credit: S. Lipinski/NASA & ESA 
+GitHub Avatar: Cats Paw Nebula, ESA HUBBLE 🐆 credit: S. Lipinski/NASA & ESA 
 
 © 2023 *Nazifa M SHEMONTI*
