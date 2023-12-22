@@ -1,11 +1,12 @@
-# 👋 
+> Here: About | Research focus | Highlights | Affiliations
+> Elsewhere: Current projects | Blog | Pages
 
-> Check out some 👯 **highlights** 
-> 	- koad-icu
-> 	- ReinforcementLearning-DQN 
+GitHub Avatar: Cats Paw Nebula, ESA HUBBLE
+
+# 👋 
 
 ***
 
-*Avatar (ESA HUBBLE Cats Paw Nebula) credit: S. Lipinski/NASA & ESA*
+*Avatar credit: S. Lipinski/NASA & ESA*
 
 © 2023 Nazifa M SHEMONTI
