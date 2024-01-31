@@ -18,7 +18,7 @@ Elsewhere: [Website] | [Blog]
 ## Bio 
 
 I am currently volunteering as a child safeguarding compliance strategist at EWB-SWE. 
-I am on a study break from the gradute program in data science at Uppsala University and obtained a bachelor's degree from BRAC University.
+I am on a study break from the graduate program in data science at Uppsala University and obtained a bachelor's degree from BRAC University.
 
 ## Projects
 
