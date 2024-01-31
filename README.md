@@ -4,13 +4,9 @@
 
 # 👋 
 
-Here: [About](#about) | [Highlights](#highlights) | [Projects](#projects)
+Here: [Highlights](#highlights) | [Bio](#Bio) | [Projects](#projects)
 
 Elsewhere: [Website] | [Blog]
-
-## About 
-
-Engineer-researcher-advocate of privacy-focused big data innovations
 
 ## Highlights 
 
@@ -18,6 +14,11 @@ Engineer-researcher-advocate of privacy-focused big data innovations
 * interned at Engineers Without Borders Sweden alongside nonprofit program experts to develop child-safe policy and procedures
 * mentored by internationally renowned computer scientists at Independent University, Bangladesh to build a patient monitoring system using machine learning
 * obtained bachelor's degree from BRAC University with a major in electronics and communication engineering and a minor in computer science
+
+## Bio 
+
+I am currently volunteering as a child safeguarding compliance strategist at EWB-SWE. 
+I am on a study break from the gradute program in data science at Uppsala University and obtained a bachelor's degree from BRAC University.
 
 ## Projects
 
