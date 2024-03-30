@@ -10,10 +10,11 @@ Elsewhere: [Website] | [Blog]
 
 ## Bio 
 
-I have spent the last nine years collaborating with researchers and developers on a variety of cross-disciplinary projects. 
-My goal is to work more closely with security and privacy practitioners building tools to safeguard children online. 
+I am a researcher; I work closely with computer scientists and practitioners of practical privacy engineering. 
+I have done a variety of cross-disciplinary projects where I got to practice and improve my technical problem-solving skills. 
 
-Please address me as *Nazifa* if you cannot decide whether to be formal or not. If we are using titles *Mx Nazifa* is all right. 
+Please address me as *Nazifa* if you cannot decide whether to be formal or not. 
+If we are using titles *Mx Nazifa* is all right. 
 I prefer *they/them* pronouns. 
 
 ## Highlights 
