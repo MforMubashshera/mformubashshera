@@ -1,4 +1,4 @@
-[Website]: <https://>
+[Website]: <https://mformubashshera.github.io/>
 
 [Blog]: <https://mu-sh.notion.site>
 
@@ -28,6 +28,6 @@ I prefer *they/them* pronouns.
 
 ***
 
-🐆 GitHub Avatar: Cats Paw Nebula, ESA HUBBLE | credit: S. Lipinski/NASA & ESA 
+GitHub Avatar: Cats Paw Nebula 🐆 🐾 credit: S. Lipinski/NASA & ESA 
 
 © 2024 *Nazifa M SHEMONTI* 
