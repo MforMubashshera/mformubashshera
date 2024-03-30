@@ -14,15 +14,15 @@ Elsewhere: [Website] | [Blog]
 
 ## Bio 
 
-I am a researcher, I work closely with computer scientists and practitioners of practical privacy engineering. 
-I have done a variety of cross-disciplinary projects where I got to improve on my technical problem-solving skills. 
+I am a mid-career privacy and security researcher. 
+I have done a variety of cross-disciplinary projects where I got to work closely with computer scientists and practitioners of practical privacy engineering. 
 
 ## Highlights 
 
 * Research focus
-	* data extraction, transformation, and loading tools
 	* personal data protection and privacy
 * Wide skillset
+	* data extraction, transformation, and loading tools
 
 ## Projects
 
